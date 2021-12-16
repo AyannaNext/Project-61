@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(182, 48, 194);
+}
+#intro iframe {
+    border: solid;
+    border-width: 20px;
+    border-left-color: teal;
+    border-right-color: rgb(230, 19, 89);
+    border-top-color: rgb(255, 94, 0);
+    border-bottom-color: gold;
+}
